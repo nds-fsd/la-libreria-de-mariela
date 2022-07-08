@@ -1,8 +1,13 @@
 {
   "name": "la-libreria-de-mariela",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "main": "dist/index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nds-fsd/la-libreria-de-mariela",
+    "homepage": "https://github.com/nds-fsd/la-libreria-de-mariela"
+  },
   "author": "Mariela",
   "files": [
     "dist"
